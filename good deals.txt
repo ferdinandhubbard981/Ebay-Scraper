@@ -1,87 +1,109 @@
 
 
-Current RX 480 PU's, Average Price: 95.92541666666666, Max price = 81.53660416666666
+Current RX 480 PU's, Average Price: 101.93391304347828, Max price = 86.64382608695654
 
 
-Title: Sapphire AMD RX480 Nitro+ 4 GB GDDR5 Memory Polaris FinFET DX 12 Vulkan FreeSync, Price: £47.0, Time Left: 1:07:13, sale type: Auction, URL: https://www.ebay.co.uk/itm/Sapphire-AMD-RX480-Nitro-4-GB-GDDR5-Memory-Polaris-FinFET-DX-12-Vulkan-FreeSync-/264450052919
+Title: XFX Radeon RX 480 Core , 8GB GDDR5, HDMI, 3x DP, Time Left: 14:53:17, sale type: Auction, URL: https://www.ebay.co.uk/itm/XFX-Radeon-RX-480-Core-8GB-GDDR5-HDMI-3x-DP-/303315079132
 
-
-
-Current GTX 1660Ti GPU's, Average Price: 219.44599999999994, Max price = 186.52909999999994
-
+Title: MSI AMD Radeon RX 480 8GB GDDR5 VR Graphic Card from gaming PC, Price: £66.0, Time Left: 21:16:21, sale type: Auction, URL: https://www.ebay.co.uk/itm/MSI-AMD-Radeon-RX-480-8GB-GDDR5-VR-Graphic-Card-gaming-PC-/153673105327
 
 
 
-Current GTX 1070 GPU's, Average Price: 191.3345, Max price = 162.634325
-
-
-Title: Msi Gtx 1070 Armor 8Gb Ddr5x, Time Left: 1:10:48, sale type: Auction, URL: https://www.ebay.co.uk/itm/Msi-Gtx-1070-Armor-8Gb-Ddr5x-/264450057407
-
-Title: GTX 1070 ASUS DUAL OC, Time Left: 1:55:14, sale type: Auction, URL: https://www.ebay.co.uk/itm/GTX-1070-ASUS-DUAL-OC-/123893671572
-
-Title: GTX 1070 MSI AERO, Time Left: 1:59:27, sale type: Auction, URL: https://www.ebay.co.uk/itm/GTX-1070-MSI-AERO-/123893675570
-
-Title: KFA2 GeForce Gtx 1070 EXOC 8GB GDDR5, Time Left: 2:29:03, sale type: Auction, URL: https://www.ebay.co.uk/itm/KFA2-GeForce-Gtx-1070-EXOC-8GB-GDDR5-/264449949423
-
-Title: Gigabyte GeForce GTX 1070 G1 Gaming 8G rev. 2.0 GV-N1070G1, Price: £160.12, Time Left: 3:51:19, sale type: Auction, URL: https://www.ebay.co.uk/itm/Gigabyte-GeForce-GTX-1070-G1-Gaming-8G-rev-2-0-GV-N1070G1-/202765619985
-
-Title: ASUS TURBO NVIDIA GEFORCE GTX 1070 8GB GDDR5 Gaming-Grafikkarte, Time Left: 4:12:49, sale type: Auction, URL: https://www.ebay.co.uk/itm/ASUS-TURBO-NVIDIA-GEFORCE-GTX-1070-8GB-GDDR5-Gaming-Grafikkarte-/133158094427
-
-
-
-Current RTX 2060 GPU's, Average Price: 273.2852380952381, Max price = 232.2924523809524
+Current GTX 1660Ti GPU's, Average Price: 217.4232, Max price = 184.80972
 
 
 
 
-Current AMD Radeon RX Vega 56 GPU's, Average Price: 201.9224, Max price = 171.63404
+Current GTX 1070 GPU's, Average Price: 210.81214285714285, Max price = 179.19032142857142
+
+
+Title: NVIDIA EVGA GeForce GTX 1070 SC Gaming Graphics Card, Price: £150.0, Time Left: 1:57:10, sale type: Auction, URL: https://www.ebay.co.uk/itm/NVIDIA-EVGA-GeForce-GTX-1070-SC-Gaming-Graphics-Card-/254379397172
+
+Title: Gigabyte Geforce GTX 1070 G1 Gaming Graphic Card 8GB, Price: £160.0, Time Left: 13:04:42, sale type: Auction, URL: https://www.ebay.co.uk/itm/Gigabyte-Geforce-GTX-1070-G1-Gaming-Graphic-Card-8GB-/183985808127
+
+Title: EVGA GeForce GTX 1070  8gb Gaming Graphics Card, Price: £175.0, Time Left: 13:57:11, sale type: Auction, URL: https://www.ebay.co.uk/itm/EVGA-GeForce-GTX-1070-8gb-Gaming-Graphics-Card-/303310153284
+
+Title: MSI GeForce GTX 1070 AERO 8G Graphics Card, Price: £110.9, Time Left: 15:45:31, sale type: Auction, URL: https://www.ebay.co.uk/itm/MSI-GeForce-GTX-1070-AERO-8G-Graphics-Card-/312793235240
+
+Title: EVGA GeForce GTX 1070 SC (Superclocked) 8GB GDDR5, Price: £108.5, Time Left: 18:07:48, sale type: Auction, URL: https://www.ebay.co.uk/itm/EVGA-GeForce-GTX-1070-SC-Superclocked-8GB-GDDR5-/163893130516
+
+Title: PALIT nvidia GeForce GTX 1070 Dual Fan 4000 8GB GDDR5 256-bit Gaming Grafikkarte, Price: £172.07999999999998, Time Left: 21:08:35, sale type: Auction, URL: https://www.ebay.co.uk/itm/PALIT-nvidia-GeForce-GTX-1070-Dual-Fan-4000-8GB-GDDR5-256-bit-Gaming-Grafikkarte-/383188787508
+
+Title: MSI Geforce GTX 1070 Aero 8G GDDR5, Time Left: 23:28:05, sale type: Auction, URL: https://www.ebay.co.uk/itm/MSI-Geforce-GTX-1070-Aero-8G-GDDR5-/143403288536
+
+
+
+Current RTX 2060 GPU's, Average Price: 264.1716666666667, Max price = 224.54591666666667
 
 
 
 
-Current GTX 1070Ti GPU's, Average Price: 248.77791666666667, Max price = 211.46122916666667
+Current AMD Radeon RX Vega 56 GPU's, Average Price: 198.86874999999998, Max price = 169.0384375
 
 
 
 
-Current AMD Radeon RX Vega 64 GPU's, Average Price: 241.0977272727273, Max price = 204.9330681818182
+Current GTX 1070Ti GPU's, Average Price: 256.9624, Max price = 218.41804
+
+
+Title: EVGA 1070Ti SC Black, Price: £166.29, Time Left: 18:43:51, sale type: Auction, URL: https://www.ebay.co.uk/itm/EVGA-1070Ti-SC-Black-/274039486157
+
+
+
+Current AMD Radeon RX Vega 64 GPU's, Average Price: 249.91347826086954, Max price = 212.4264565217391
 
 
 
 
-Current GTX 1080 GPU's, Average Price: 272.885, Max price = 231.95225
+Current GTX 1080 GPU's, Average Price: 295.7807142857142, Max price = 251.41360714285707
 
 
-Title: Geforce gtx 1080 8gb, Price: £138.17, Time Left: 19:10:53, sale type: Auction, URL: https://www.ebay.co.uk/itm/Geforce-gtx-1080-8gb-/183938040293
+Title: Manli Geforce GTX 1080 8GB PCI-E Video Card DVI HDMI DP, Price: £191.79, Time Left: 0:12:43, sale type: Auction, URL: https://www.ebay.co.uk/itm/Manli-Geforce-GTX-1080-8GB-PCI-E-Video-Card-DVI-HDMI-DP-/283635371360
 
-Title: Scheda Video Kfa2 Gtx 1080 HallOfFame, Time Left: 23:26:51, sale type: Auction, URL: https://www.ebay.co.uk/itm/Scheda-Video-Kfa2-Gtx-1080-HallOfFame-/383136423816
+Title: EVGA NVIDIA GeForce GTX 1080 8GB FTW GAMING ACX 3.0, Price: £248.0, Time Left: 15:04:31, sale type: Auction, URL: https://www.ebay.co.uk/itm/EVGA-NVIDIA-GeForce-GTX-1080-8GB-FTW-GAMING-ACX-3-0-/193142234786
 
+Title: EVGA GeForce GTX 1080 FTW 8Gb Graphic Card, Price: £193.0, Time Left: 18:45:01, sale type: Auction, URL: https://www.ebay.co.uk/itm/EVGA-GeForce-GTX-1080-FTW-8Gb-Graphic-Card-/254380013164
 
+Title: EVGA GeForce GTX 1080 8Gb Graphic Card., Price: £189.0, Time Left: 18:49:36, sale type: Auction, URL: https://www.ebay.co.uk/itm/EVGA-GeForce-GTX-1080-8Gb-Graphic-Card-/254380017590
 
-Current RTX 2070 GPU's, Average Price: 383.2619999999999, Max price = 325.7726999999999
-
-
-
-
-Current AMD Radeon VII GPU's, Average Price: 487.1873913043479, Max price = 414.1092826086957
+Title: KFA2 GeForce GTX 1080 EXOC 8GB GDDR5X, Time Left: 23:07:39, sale type: Auction, URL: https://www.ebay.co.uk/itm/KFA2-GeForce-GTX-1080-EXOC-8GB-GDDR5X-/133193523124
 
 
 
-
-Current RTX 2080 GPU's, Average Price: 514.2875, Max price = 437.144375
-
+Current RTX 2070 GPU's, Average Price: 370.763, Max price = 315.14855
 
 
+Title: MSI GeForce RTX 2070 Armor 8GB Graphics Card, Price: £291.42, Time Left: 15:51:38, sale type: Auction, URL: https://www.ebay.co.uk/itm/MSI-GeForce-RTX-2070-Armor-8GB-Graphics-Card-/223698496572
 
-Current GTX 1080Ti GPU's, Average Price: 410.37399999999997, Max price = 348.81789999999995
+
+
+Current AMD Radeon VII GPU's, Average Price: 504.412, Max price = 428.75019999999995
 
 
 
 
-Current RTX 2080 Ti GPU's, Average Price: 860.41, Max price = 731.3485
+Current RTX 2080 GPU's, Average Price: 512.6126666666667, Max price = 435.72076666666663
 
 
-Title: ZOTAC RTX 2080 Ti Amp Edition 11 Gb GDDR6 1x USB Type-C 3x Display Port, Price: £603.78, Time Left: 3:34:45, sale type: Auction, URL: https://www.ebay.co.uk/itm/ZOTAC-RTX-2080-Ti-Amp-Edition-11-Gb-GDDR6-1x-USB-Type-C-3x-Display-Port-/143374722391
+Title: MSI GeForce RTX 2080 AERO 8G GDDR6, Price: £420.0, Time Left: 4:15:49, sale type: Auction, URL: https://www.ebay.co.uk/itm/MSI-GeForce-RTX-2080-AERO-8G-GDDR6-/153672244154
 
-Title: ASUS ROG STRIX RTX 2080 Ti 11 Gb GDDR6 1x USB Type-C 2x Display Port 2x HDMI, Price: £631.6, Time Left: 3:41:53, sale type: Auction, URL: https://www.ebay.co.uk/itm/ASUS-ROG-STRIX-RTX-2080-Ti-11-Gb-GDDR6-1x-USB-Type-C-2x-Display-Port-2x-HDMI-/143374727497
+
+
+Current GTX 1080Ti GPU's, Average Price: 435.41880000000003, Max price = 370.10598000000005
+
+
+Title: MSI NVIDIA GeForce GTX 1080 Ti FE, NZXT G12, NZXT Kraken X62 Watercooled, Price: £260.0, Time Left: 18:58:04, sale type: Auction, URL: https://www.ebay.co.uk/itm/MSI-NVIDIA-GeForce-GTX-1080-Ti-FE-NZXT-G12-NZXT-Kraken-X62-Watercooled-/113913901577
+
+Title: Carte graphique MSI GeForce GTX 1080 Ti Gaming X Trio 11 Go, Time Left: 19:29:51, sale type: Auction, URL: https://www.ebay.co.uk/itm/Carte-graphique-MSI-GeForce-GTX-1080-Ti-Gaming-X-Trio-11-Go-/183986152780
+
+Title: Grafikkarte GIGABYTE GeForce GTX 1080 TI Gaming OC Black 11 GB, Time Left: 21:08:31, sale type: Auction, URL: https://www.ebay.co.uk/itm/Grafikkarte-GIGABYTE-GeForce-GTX-1080-TI-Gaming-OC-Black-11-GB-/183983824286
+
+Title: GIGABYTE AORUS GeForce GTX 1080 Ti Waterforce Xtreme Edition 11GB Graphics Card, Price: £368.0, Time Left: 22:33:34, sale type: Auction, URL: https://www.ebay.co.uk/itm/GIGABYTE-AORUS-GeForce-GTX-1080-Ti-Waterforce-Xtreme-Edition-11GB-Graphics-Card-/113918262466
+
+Title: Palit GeForce GTX 1080 Ti GameRock Grafikkarte, 11GB GDDR5X, PCI Express 3.0, Time Left: 23:14:07, sale type: Auction, URL: https://www.ebay.co.uk/itm/Palit-GeForce-GTX-1080-Ti-GameRock-Grafikkarte-11GB-GDDR5X-PCI-Express-3-0-/303310649276
+
+
+
+Current RTX 2080 Ti GPU's, Average Price: 878.1104, Max price = 746.39384
+
 

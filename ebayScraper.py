@@ -11,13 +11,13 @@ import credentialsconfiguration
 
 def continuationCheck():
 
-    print('Waiting... please press Ctrl-C when you wish to proceed.')
+    print('Waiting... Press Ctrl-C to skip wait.')
     try:
         for i in range(0, 60):
             sleep(1)
         return True
     except KeyboardInterrupt:
-        userInput = input("pls type Q to quit, anything else to keep going")
+        userInput = input("type Q to quit, anything else to keep going")
         if userInput == "Q":
             return False
         else:
