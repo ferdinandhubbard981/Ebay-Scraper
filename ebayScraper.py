@@ -25,23 +25,23 @@ def continuationCheck():
 
 
 graphicsCards = [
-    {"keyword": ["RX 480 PU", "RX 480"], "blacklist": ["1050", "1060", "1070", "1080", "2060", "2070", "2080", "GTX", "gtx", "Gtx", "ti", "Ti", "TI"]},
-
-    {"keyword": ["GTX 1660Ti GPU", "GTX 1660Ti"], "blacklist": ["1050", "1060", "1070"]},
-    {"keyword": ["GTX 1070 GPU", "GTX 1070"], "blacklist": ["1050", "1060", "1080", "ti", "Ti", "TI"], "prefix": [{"name": "Asus", "suffix": ["Dual 8G"]}]},
-    {"keyword": ["RTX 2060 GPU", "RTX 2060"], "blacklist": ["1050", "1060", "1070", "1080", "2070", "2080", "GTX", "gtx", "Gtx", "ti", "Ti", "TI"]},
-    {"keyword": ["AMD Radeon RX Vega 56 GPU", "AMD Radeon RX Vega 56"], "blacklist": ["1050", "1060", "1070", "1080", "2060", "2070", "2080", "GTX", "gtx", "Gtx", "ti", "Ti", "TI"]},
-    {"keyword": ["GTX 1070Ti GPU", "GTX 1070Ti"], "blacklist": ["1050", "1060", "1080"]},
-    {"keyword": ["AMD Radeon RX Vega 64 GPU", "AMD Radeon RX Vega 64"], "blacklist": ["1050", "1060", "1070", "1080", "2060", "2070", "2080", "GTX", "gtx", "Gtx", "ti", "Ti", "TI"]},
-    {"keyword": ["GTX 1080 GPU", "GTX 1080"], "blacklist": ["1050", "1060", "1070", "ti", "Ti", "TI"]},
-    {"keyword": ["RTX 2070 GPU", "RTX 2070"], "blacklist": ["1050", "1060", "1070", "1080", "2060", "2080", "GTX", "gtx", "Gtx", "ti", "Ti", "TI"]},
-    {"keyword": ["AMD Radeon VII GPU", "AMD Radeon VII"], "blacklist": ["1050", "1060", "1070", "1080", "2060", "2070", "2080", "GTX", "gtx", "Gtx", "ti", "Ti", "TI"]},
-    {"keyword": ["RTX 2080 GPU", "RTX 2080"], "blacklist": ["1050", "1060", "1070", "1080", "2060", "2070", "GTX", "gtx", "Gtx", "ti", "Ti", "TI"]},
-    {"keyword": ["GTX 1080Ti GPU", "GTX 1080Ti"], "blacklist": ["1050", "1060", "1070", "2060", "2070", "2080", "RTX", "Rtx", "rtx"]},
-    # {"keyword": ["Titan XP GPU", "Titan XP"], "blacklist": ["1050", "1060", "1070", "1080", "2060", "2070", "2080" "GTX", "gtx", "Gtx", "RTX", "Rtx", "rtx", "ti", "Ti", "TI"]},
-    # {"keyword": ["Titan V GPU", "Titan V"], "blacklist": ["1050", "1060", "1070", "1080", "2060", "2070", "2080" "GTX", "gtx", "Gtx", "RTX", "Rtx", "rtx", "ti", "Ti", "TI"]},
-    {"keyword": ["RTX 2080 Ti GPU", "RTX 2080 Ti"], "blacklist": ["1050", "1060", "1070", "1080", "2060", "2070", "GTX", "gtx", "Gtx"]},
-    # {"keyword": ["Titan RTX GPU", "Tit  an RTX"], "blacklist": ["1050", "1060", "1070", "1080", "2060", "2070", "2080", "GTX", "gtx", "Gtx", "ti", "Ti", "TI"]}
+    {"keyword": ["Casio FX-CG50", "FX-CG50"], "blacklist": ["reeeeeeeeeeeeeeeeeeeeeeeeee"], "categoryID": "9972", "averageOverride" : 150},
+    #{"keyword": ["RX 480 GPU", "RX 480"], "blacklist": ["1050", "1060", "1070", "1080", "2060", "2070", "2080", "GTX", "gtx", "Gtx", "ti", "Ti", "TI"], "categoryID": "27386"},
+    #{"keyword": ["GTX 1660Ti GPU", "GTX 1660Ti"], "blacklist": ["1050", "1060", "1070"], "categoryID": "27386"},
+    #{"keyword": ["GTX 1070 GPU", "GTX 1070"], "blacklist": ["1050", "1060", "1080", "ti", "Ti", "TI"], "prefix": [{"name": "Asus", "suffix": ["Dual 8G"]}], "categoryID": "27386"},
+    #{"keyword": ["RTX 2060 GPU", "RTX 2060"], "blacklist": ["1050", "1060", "1070", "1080", "2070", "2080", "GTX", "gtx", "Gtx", "ti", "Ti", "TI"], "categoryID": "27386"},
+    #{"keyword": ["AMD Radeon RX Vega 56 GPU", "AMD Radeon RX Vega 56"], "blacklist": ["1050", "1060", "1070", "1080", "2060", "2070", "2080", "GTX", "gtx", "Gtx", "ti", "Ti", "TI"], "categoryID": "27386"},
+    #{"keyword": ["GTX 1070Ti GPU", "GTX 1070Ti"], "blacklist": ["1050", "1060", "1080"], "categoryID": "27386"},
+    #{"keyword": ["AMD Radeon RX Vega 64 GPU", "AMD Radeon RX Vega 64"], "blacklist": ["1050", "1060", "1070", "1080", "2060", "2070", "2080", "GTX", "gtx", "Gtx", "ti", "Ti", "TI"], "categoryID": "27386"},
+    #{"keyword": ["GTX 1080 GPU", "GTX 1080"], "blacklist": ["1050", "1060", "1070", "ti", "Ti", "TI"], "categoryID": "27386"},
+    #{"keyword": ["RTX 2070 GPU", "RTX 2070"], "blacklist": ["1050", "1060", "1070", "1080", "2060", "2080", "GTX", "gtx", "Gtx", "ti", "Ti", "TI"], "categoryID": "27386"},
+    #{"keyword": ["AMD Radeon VII GPU", "AMD Radeon VII"], "blacklist": ["1050", "1060", "1070", "1080", "2060", "2070", "2080", "GTX", "gtx", "Gtx", "ti", "Ti", "TI"], "categoryID": "27386"},
+    #{"keyword": ["RTX 2080 GPU", "RTX 2080"], "blacklist": ["1050", "1060", "1070", "1080", "2060", "2070", "GTX", "gtx", "Gtx", "ti", "Ti", "TI"], "categoryID": "27386"},
+    #{"keyword": ["GTX 1080Ti GPU", "GTX 1080Ti"], "blacklist": ["1050", "1060", "1070", "2060", "2070", "2080", "RTX", "Rtx", "rtx"], "categoryID": "27386"},
+    # {"keyword": ["Titan XP GPU", "Titan XP"], "blacklist": ["1050", "1060", "1070", "1080", "2060", "2070", "2080" "GTX", "gtx", "Gtx", "RTX", "Rtx", "rtx", "ti", "Ti", "TI"], "categoryID": "27386"},
+    # {"keyword": ["Titan V GPU", "Titan V"], "blacklist": ["1050", "1060", "1070", "1080", "2060", "2070", "2080" "GTX", "gtx", "Gtx", "RTX", "Rtx", "rtx", "ti", "Ti", "TI"], "categoryID": "27386"},
+    #{"keyword": ["RTX 2080 Ti GPU", "RTX 2080 Ti"], "blacklist": ["1050", "1060", "1070", "1080", "2060", "2070", "GTX", "gtx", "Gtx"], "categoryID": "27386"},
+    # {"keyword": ["Titan RTX GPU", "Tit  an RTX"], "blacklist": ["1050", "1060", "1070", "1080", "2060", "2070", "2080", "GTX", "gtx", "Gtx", "ti", "Ti", "TI"], "categoryID": "27386"}
 ]
 percMultiplier = 0.85
 maxPriceMultiplier = 1.6
@@ -59,14 +59,20 @@ while inputCheck:
     for item in graphicsCards:
         previousAverage = ebayFinding.readPreviousAverage(item["keyword"][0], dir_name)
         minPrice, maxPrice = ebayFinding.findMaxAndMinPrices(previousAverage, maxPriceMultiplier, minPriceMutlitiplier)
+
         print(f"{maxPrice}, {minPrice}")
         while True:
             try:
-                average = ebayFinding.findAverage(api, item["keyword"], item["blacklist"], maxPrice, minPrice, soldListingsFile, allBlacklist, dir_name)
-                for item in ebayFinding.findItems(api, average, percMultiplier, item["keyword"], item["blacklist"], minPrice, file, allBlacklist):
+                average = ebayFinding.findAverage(api, item["keyword"], item["blacklist"], maxPrice, minPrice, soldListingsFile, allBlacklist, dir_name, item["categoryID"])
+                try:
+                    average = item["averageOverride"]
+                except Exception as e:
+                    print()
+
+                for item in ebayFinding.findItems(api, average, percMultiplier, item["keyword"], item["blacklist"], minPrice, file, allBlacklist, item["categoryID"]):
                     itemIdList.append(item)
             except ConnectionError as disconnected:
-                print(disconnected)
+                print(str(disconnected))
                 continue
             break
     file.close()

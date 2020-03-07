@@ -80,7 +80,7 @@ def isBlacklisted(blacklist, allBlacklist, itemTitle):
     return True
 
 
-def findAverage(api, keywords, blacklist, maxPrice, minPrice, soldListingsFile, allBlacklist, dir_name):
+def findAverage(api, keywords, blacklist, maxPrice, minPrice, soldListingsFile, allBlacklist, dir_name, categoryID):
 
     print(f"sold {keywords[0]}")
     soldListingsFile.write(f"sold {keywords[0]}\n\n\n")
@@ -88,7 +88,7 @@ def findAverage(api, keywords, blacklist, maxPrice, minPrice, soldListingsFile, 
     request = {
         "keywords": keywords,
         "soldItemsOnly": True,
-        "categoryId": "27386",
+        "categoryId": categoryID,
         "itemFilter": [
             {"name": "Condition", "value": ["5000", "4000", "3000", "2500", "2000"]},
             {"name": "LocatedIn", "value": ["GB", "FR", "BE", "DE", "RU", "IT", "ES", "PT", "TR", "PL", "AT", "GR"]},
@@ -108,8 +108,8 @@ def findAverage(api, keywords, blacklist, maxPrice, minPrice, soldListingsFile, 
     try:
         print(response.reply.searchResult.item[0].title)
     except (AttributeError, UnicodeEncodeError) as error:
-        if error == AttributeError:
-            return -1
+        print("error " + str(error))
+        return -1
 
     for item in response.reply.searchResult.item:
         if isBlacklisted(blacklist, allBlacklist, item.title):
@@ -144,7 +144,7 @@ def findAverage(api, keywords, blacklist, maxPrice, minPrice, soldListingsFile, 
     return average
 
 
-def findItems(api, average, percMultiplier, keywords, blacklist, minPrice, file, allBlacklist):
+def findItems(api, average, percMultiplier, keywords, blacklist, minPrice, file, allBlacklist, categoryID):
     itemIdList = []
     print(f"current {keywords[0]}, Max price = {average * percMultiplier}\n\n\n")
 
@@ -152,7 +152,7 @@ def findItems(api, average, percMultiplier, keywords, blacklist, minPrice, file,
 
     request = {
         "keywords": keywords,
-        "categoryId": "27386",
+        "categoryId": categoryID,
         "itemFilter": [
             {"name": "Condition", "value": ["5000", "4000", "3000", "2500", "2000", "1750", "1500", "1000"]},
             {"name": "LocatedIn", "value": ["GB", "FR", "BE", "DE", "RU", "IT", "ES", "PT", "TR", "PL", "AT", "GR"]},
