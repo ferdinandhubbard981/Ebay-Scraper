@@ -25,8 +25,8 @@ def continuationCheck():
 
 
 graphicsCards = [
-    {"keyword": ["Casio FX-CG50", "FX-CG50"], "blacklist": ["reeeeeeeeeeeeeeeeeeeeeeeeee"], "categoryID": "9972", "averageOverride" : 150},
-    #{"keyword": ["RX 480 GPU", "RX 480"], "blacklist": ["1050", "1060", "1070", "1080", "2060", "2070", "2080", "GTX", "gtx", "Gtx", "ti", "Ti", "TI"], "categoryID": "27386"},
+    #{"keyword": ["Casio FX-CG50", "FX-CG50"], "blacklist": ["reeeeeeeeeeeeeeeeeeeeeeeeee"], "categoryID": "9972", "averageOverride" : 150},
+    {"keyword": ["RX 480 GPU", "RX 480"], "blacklist": ["1050", "1060", "1070", "1080", "2060", "2070", "2080", "GTX", "gtx", "Gtx", "ti", "Ti", "TI"], "categoryID": "27386"},
     #{"keyword": ["GTX 1660Ti GPU", "GTX 1660Ti"], "blacklist": ["1050", "1060", "1070"], "categoryID": "27386"},
     #{"keyword": ["GTX 1070 GPU", "GTX 1070"], "blacklist": ["1050", "1060", "1080", "ti", "Ti", "TI"], "prefix": [{"name": "Asus", "suffix": ["Dual 8G"]}], "categoryID": "27386"},
     #{"keyword": ["RTX 2060 GPU", "RTX 2060"], "blacklist": ["1050", "1060", "1070", "1080", "2070", "2080", "GTX", "gtx", "Gtx", "ti", "Ti", "TI"], "categoryID": "27386"},
